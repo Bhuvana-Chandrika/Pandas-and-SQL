@@ -1,2 +1,2 @@
-# Pandas-and-SQL
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+## SQL Leet Code Problems
+This is a collection of LeetCode questions I solve.
